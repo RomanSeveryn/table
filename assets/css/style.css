@@ -1,0 +1,12 @@
+table {
+  width: 30%;
+  text-align: center;
+}
+caption {
+  font-size: 2em;
+}
+td {
+  border: 2px solid;
+  padding: 4px;
+  font-size: 1.8em;
+}
